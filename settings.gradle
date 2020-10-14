@@ -1,4 +1,5 @@
 rootProject.name = 'DesignPatterns'
 include 'Singleton'
 include 'Prototype'
+include 'Strategy'
 
