@@ -3,4 +3,5 @@ include 'Singleton'
 include 'Prototype'
 include 'Strategy'
 include 'Factory'
+include 'Builder'
 
