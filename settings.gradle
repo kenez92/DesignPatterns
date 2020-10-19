@@ -6,4 +6,5 @@ include 'Factory'
 include 'Builder'
 include 'Facade'
 include 'Adapter'
+include 'Decorator'
 
