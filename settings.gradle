@@ -8,4 +8,5 @@ include 'Facade'
 include 'Adapter'
 include 'Decorator'
 include 'Aspect'
+include 'Observer'
 
