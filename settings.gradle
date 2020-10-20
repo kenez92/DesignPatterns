@@ -7,4 +7,5 @@ include 'Builder'
 include 'Facade'
 include 'Adapter'
 include 'Decorator'
+include 'Aspect'
 
